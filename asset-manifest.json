@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/haydulski/Organizer-ToDo.git/static/css/main.c1588d2c.chunk.css",
-    "main.js": "/haydulski/Organizer-ToDo.git/static/js/main.388a34cd.chunk.js",
-    "main.js.map": "/haydulski/Organizer-ToDo.git/static/js/main.388a34cd.chunk.js.map",
-    "runtime-main.js": "/haydulski/Organizer-ToDo.git/static/js/runtime-main.6b35bfe7.js",
-    "runtime-main.js.map": "/haydulski/Organizer-ToDo.git/static/js/runtime-main.6b35bfe7.js.map",
-    "static/js/2.62deb98a.chunk.js": "/haydulski/Organizer-ToDo.git/static/js/2.62deb98a.chunk.js",
-    "static/js/2.62deb98a.chunk.js.map": "/haydulski/Organizer-ToDo.git/static/js/2.62deb98a.chunk.js.map",
-    "index.html": "/haydulski/Organizer-ToDo.git/index.html",
-    "precache-manifest.bf250f02e983b6ccf506409f1977b332.js": "/haydulski/Organizer-ToDo.git/precache-manifest.bf250f02e983b6ccf506409f1977b332.js",
-    "service-worker.js": "/haydulski/Organizer-ToDo.git/service-worker.js",
-    "static/css/main.c1588d2c.chunk.css.map": "/haydulski/Organizer-ToDo.git/static/css/main.c1588d2c.chunk.css.map",
-    "static/js/2.62deb98a.chunk.js.LICENSE.txt": "/haydulski/Organizer-ToDo.git/static/js/2.62deb98a.chunk.js.LICENSE.txt"
+    "main.css": "/Organizer-ToDo/static/css/main.c1588d2c.chunk.css",
+    "main.js": "/Organizer-ToDo/static/js/main.166daf1a.chunk.js",
+    "main.js.map": "/Organizer-ToDo/static/js/main.166daf1a.chunk.js.map",
+    "runtime-main.js": "/Organizer-ToDo/static/js/runtime-main.daeae5e2.js",
+    "runtime-main.js.map": "/Organizer-ToDo/static/js/runtime-main.daeae5e2.js.map",
+    "static/js/2.62deb98a.chunk.js": "/Organizer-ToDo/static/js/2.62deb98a.chunk.js",
+    "static/js/2.62deb98a.chunk.js.map": "/Organizer-ToDo/static/js/2.62deb98a.chunk.js.map",
+    "index.html": "/Organizer-ToDo/index.html",
+    "precache-manifest.11aeb9348cb688631214ffab6d359fcc.js": "/Organizer-ToDo/precache-manifest.11aeb9348cb688631214ffab6d359fcc.js",
+    "service-worker.js": "/Organizer-ToDo/service-worker.js",
+    "static/css/main.c1588d2c.chunk.css.map": "/Organizer-ToDo/static/css/main.c1588d2c.chunk.css.map",
+    "static/js/2.62deb98a.chunk.js.LICENSE.txt": "/Organizer-ToDo/static/js/2.62deb98a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b35bfe7.js",
+    "static/js/runtime-main.daeae5e2.js",
     "static/js/2.62deb98a.chunk.js",
     "static/css/main.c1588d2c.chunk.css",
-    "static/js/main.388a34cd.chunk.js"
+    "static/js/main.166daf1a.chunk.js"
   ]
 }
