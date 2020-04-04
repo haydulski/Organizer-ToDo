@@ -9,9 +9,9 @@ class App extends Component {
   state = {
     tasks: [
       { id: '0', text: 'clean floor', date: '2020-04-06', active: true, important: false, finishDate: null },
-      { id: '1', text: 'go to school and take diplome', date: '2020-04-06', active: true, important: false, finishDate: null },
+      { id: '1', text: 'go ride on donkey Rocco', date: '2020-04-06', active: true, important: false, finishDate: null },
       { id: '2', text: 'drink 1 liter milk every day', date: '2020-04-06', active: true, important: true, finishDate: null },
-      { id: '3', text: 'go with my dog out', date: '2020-04-03', active: true, important: false, finishDate: null },
+      { id: '3', text: 'ask mum how she can scream 12h without breake', date: '2020-04-03', active: true, important: false, finishDate: null },
       { id: '4', text: 'buy gift for myself', date: '2020-03-02', active: true, important: false, finishDate: null },
     ]
   }
@@ -60,6 +60,7 @@ class App extends Component {
         <h1>Organizer</h1>
         <AddTask add={this.handleAdd} />
         <TaskList passive={this.handlePassive} remove={this.handleRemove} tas={this.state.tasks} />
+        <h6>haydulski</h6>
       </div>);
   }
 }
