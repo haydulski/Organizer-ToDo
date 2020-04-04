@@ -17,6 +17,7 @@ const TaskList = (props) => {
                 {listActive}</div>
             <div className="passive">
                 <h1>Done tasks ({passiveTask.length})</h1>
+                <p>{passiveTask.length > 4 && <span>Five last tasks...</span>}</p>
                 {listPasive.sort((a, b) => b.finshDate - a.finishDate).slice(0, 5)}
             </div>
         </>

@@ -43,7 +43,7 @@ class AddTask extends Component {
         const { text, date, important } = this.state;
         return (
             <div className="taskadding">
-                <h2>Add new task to list</h2>
+                <h3>Add new task to list</h3>
 
                 <input type="text" id="name" placeholder="your task..." value={text} onChange={this.handleTextAdd} />
                 <label htmlFor="name"> type new task</label><span>
@@ -51,7 +51,7 @@ class AddTask extends Component {
                     <label htmlFor="checked">Is it important?</label></span>
                 <br />
                 <input type="date" min={this.minDate} max="2020-12-31" id="dateOfTask" value={date} onChange={this.handleDate} />
-                <label htmlFor="dateOfTask">   Choose date to finish</label><br />
+                <label htmlFor="dateOfTask">   Choose date of finish</label><br />
                 <button onClick={this.handleAppend}>Add</button>
 
             </div>
