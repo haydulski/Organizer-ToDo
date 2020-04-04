@@ -12,10 +12,11 @@ const TaskList = (props) => {
 
     return (
         <>
-            <h1>Done tasks ({passiveTask.length})</h1>
+
             <div className="active">
                 {listActive}</div>
             <div className="passive">
+                <h1>Done tasks ({passiveTask.length})</h1>
                 {listPasive.sort((a, b) => b.finshDate - a.finishDate).slice(0, 5)}
             </div>
         </>

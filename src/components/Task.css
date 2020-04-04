@@ -1,4 +1,18 @@
 div.singletask {
     margin-top: 20px;
     text-transform: uppercase;
+    background-color: rgb(207, 218, 205);
+}
+
+.singletask button {
+    padding: 10px;
+    border-radius: 10%;
+}
+
+.singletask button:hover {
+    background-color: brown;
+}
+
+button.complete {
+    margin-left: 20px;
 }
